@@ -52,9 +52,13 @@ The trustees may remove a person’s membership if they believe it is in the bes
 If the Trustees consider it is necessary to change the constitution, or wind up the charity, they must call a General Meeting so that the membership can make the decision. Trustees must also call a General Meeting if they receive a written request from the majority of members. All members must be given 14 days notice and told the reason for the meeting. All decisions require a two thirds majority. Minutes must be kept.
 
 1. Winding up - any money or property remaining after payment of debts must be given to a charity with similar purposes to this one.
+
 2. Changes to the Constitution - can be made at AGMs or General Meetings. No change can be made that would make the organisation no longer a charity.
+
 3. General Meeting - called on written request from a majority of members.
+
 4. Trustees may also call a General Meeting to consult the membership
+
 
 ## Trustee meetings
 
