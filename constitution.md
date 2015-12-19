@@ -6,11 +6,11 @@ The name of the organisation shall be the Extreme Tuesday Club, often shortened 
 
 ## Aims
 
-XTC is a charitable organisation. The aims of the charity shall be to promote the exchange and development of knowledge amongst software developers using methods under the common umbrella term of [agile](http://agilemanifesto.org/) development, and in particular [extreme programming](http://www.extremeprogramming.org/). The group supports learning, exchange of experience, and development of new ideas - particularly amongst those living and working in London, UK, but welcomes interaction with the wider community.
+XTC is a not-for-profit organisation. The aims of the Group shall be to promote the exchange and development of knowledge amongst software developers using methods under the common umbrella term of [agile](http://agilemanifesto.org/) development, and in particular [extreme programming](http://www.extremeprogramming.org/). The group supports learning, exchange of experience, and development of new ideas - particularly amongst those living and working in London, UK, but welcomes interaction with the wider community.
 
 ## Trustees
 
-The charity shall be managed by a committee of trustees who are appointed at the Annual General Meeting (AGM).
+The Group shall be managed by a committee of trustees who are appointed at the Annual General Meeting (AGM).
 
 ## Powers
 
@@ -45,9 +45,9 @@ Membership of XTC shall be open to anyone who has an interest in assisting the g
 
 ## General meetings
 
-If the Trustees consider it is necessary to change the constitution, or wind up the charity, they must call a General Meeting so that the membership can make the decision. Trustees must also call a General Meeting if they receive a written request from the majority of members. All members must be given 14 days notice and told the reason for the meeting. All decisions require a two thirds majority. Minutes must be kept.
+If the Trustees consider it is necessary to change the constitution, or wind up the Group, they must call a General Meeting so that the membership can make the decision. Trustees must also call a General Meeting if they receive a written request from the majority of members. All members must be given 14 days notice and told the reason for the meeting. All decisions require a two thirds majority. Minutes must be kept.
 
-1. Winding up - any money or property remaining after payment of debts must be given to a charity with similar purposes to this one.
+1. Winding up - any money or property remaining after payment of debts must be given to a charitable organisation with similar purposes to this one.
 
 2. Changes to the Constitution - can be made at AGMs or General Meetings. No change can be made that would make the organisation no longer a charity.
 
@@ -71,13 +71,13 @@ If the Trustees consider it is necessary to change the constitution, or wind up 
 
 ## Money and property
 
-1. Money and property must only be used for the charity’s purposes.
+1. Money and property must only be used for the Group’s purposes.
 
 2. Trustees must keep accounts. The most recent annual accounts can be seen by anybody on request.
 
-3. Trustees cannot receive any money or property from the charity, except to refund reasonable out of pocket expenses.
+3. Trustees cannot receive any money or property from the Group, except to refund reasonable out of pocket expenses.
 
-4. Money must be held in the charity’s bank account. All payments must be signed by 2 trustees.
+4. Money must be held in the Group’s bank account. All payments must be signed by 2 trustees.
 
 
 ## Dissolution
