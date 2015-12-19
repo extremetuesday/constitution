@@ -27,10 +27,7 @@ To further the aims the trustees shall have power to:
 
 ## Membership
 
-The charity shall have a membership. People who support the work of the charity and are aged 18 or over, can apply to the trustees to become a member. Once accepted by the trustees, membership lasts for 3 years and may be renewed. The trustees will keep an up-to-date membership list.
-
-The trustees may remove a person’s membership if they believe it is in the best interests of the charity. The member has the right to be heard by the trustees before the decision is made and can be accompanied by a friend.
-
+Membershipvof XTC shall be open to anyone who has an interest in assisting the group to achieve its aims.
 
 ## Annual General Meeting
 
@@ -45,7 +42,6 @@ The trustees may remove a person’s membership if they believe it is in the bes
 5. Any member may stand for election as a trustee.
 
 6. Members shall elect between 3 and 6 trustees to serve for the next year. They will retire at the next AGM but may stand for re-election.
-
 
 ## General meetings
 
