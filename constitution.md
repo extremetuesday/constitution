@@ -27,7 +27,7 @@ To further the aims the trustees shall have power to:
 
 ## Membership
 
-Membershipvof XTC shall be open to anyone who has an interest in assisting the group to achieve its aims.
+Membership of XTC shall be open to anyone who has an interest in assisting the group to achieve its aims.
 
 ## Annual General Meeting
 
